@@ -238,14 +238,96 @@ footer{
     }
     .sec2 img{
         width: 390px;
-        height: 450px;
-        
-        position: absolute;
-        
+        height: 450px;  
     }
     .sec1ite{
         background-color: rgb(240, 150, 165) ;
     }
+    .sec1ite h1{
+        margin-left: 20px;
+    }
+    .sec2it a button{
+        margin-left: 5px;
+        width: 380px;
+        padding: 40px;
+        margin-top: 10px;
+    }
+    .sec2 h2{
+        padding: 30px;
+        background-color: white;
+        width: 340px;
+        height: 12
+        0px;
+        color: rgb(240, 150, 165) ;
+        margin-left: 23px;
+        margin-top: 7px;
+    }
+    .sec3{
+        display: inline;
+        margin-left: 30px;
+    }
+    .sec3ite{
+        margin-top: 0px;
+    }
+    .sec3ite p{
+        font-size: 22px;
+    }
+    .sec3ite2 img{
+        width:330px ;
+        height:350px ;
+        margin-left: 30px;
+    }
+    .sec3ite a button{
+        margin-left: 130px;
+    }
+    .sec4{
+        width: 10%;
+        display: inline;
+        margin-left: 300px;
+    }
+    .sec4ite2 p{
+        font-size: 22px;
+        margin-top: 0px;
+        width: 400px;
+    }
+    .sec4ite2 a button{
+        padding: 23px;
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border: none;
+        background-color: rgb(240, 150, 165) ;
+        margin-top: 30px;
+        color: white;
+    }
+    .sec5ite {
+        position:relative;
+        left: -80px;
+      margin-right: 70px ;
+        display: grid ;
+        grid-template-columns: 1fr 1fr 1fr;
+        
+    }
+    .sec5ite img{
+        width: 70px;
+    }
+    .sec5{
+        margin-right: 10px ;
+    }
+    .footlogo img{
+        width: 140px;
+    }
+    footer{
+        background-color: black;
+        height: 120px;
+        margin-top: 10px;
+    }
+    .footit1 a{
+        font-size: 20px;
+
+    }
+    
 }
 
 
