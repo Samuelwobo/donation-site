@@ -1,0 +1,121 @@
+.sss{
+    clip-path: circle();
+    width: 90px;
+    position: relative;
+    right: 79px;
+    top: 20px;
+}
+.head{
+    display: flex;
+}
+.h22 h1{
+    font-size: 50px;
+    position: relative;
+    right: 79px;
+    top: 20px;
+}
+.bdb{
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: white;
+    border-top-left-radius: 10px ;
+    border-top-right-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+    border-bottom-right-radius: 10px ;
+}
+form{
+
+    margin-left: 50px;
+}
+form .red{
+    width: 250px;
+    height: 30px;
+}
+label{
+    font-size: 20px;
+}
+body{
+    background-color: grey;
+}
+.tnt{
+    width: 570px ;
+}
+button{
+    background-color: rgb(83, 163, 83);
+    width: 140px;
+    border: none;
+    padding: 10px;
+    margin-left: 260px;
+    margin-bottom: 20px;
+    background-color: rgb(124, 211, 124);
+    border-top-left-radius: 7px ;
+    border-top-right-radius: 7px ;
+    border-bottom-left-radius: 7px ;
+    border-bottom-right-radius: 7px ;
+}
+@media (max-width:600px){
+    .sss{
+        position: absolute;
+        left: 255px;
+        margin-top: 100px;
+    }
+    .h22 h1{
+        margin-left: 120px;
+        width: 100%;
+        top: -30px;
+        
+    }
+    .bdb{
+        margin-left: 1px;
+        margin-right: 30px;
+        width: 400px;
+        margin-top: 20px;
+    }
+    .tnt{
+        width: 300px;
+    }
+    .head{
+        display: inline;
+    }
+    .h11{
+        margin-left: 120px;
+    }
+    #d22{
+        margin-top: 20px;
+    }
+    #red{
+        width: 280px; 
+    }
+    #red2{
+        width: 280px;  
+    }
+    #red3{
+        width: 280px;   
+    }
+    #red4{
+        width: 280px; 
+    }
+    button{
+        background-color: rgb(83, 163, 83);
+        width: 140px;
+        border: none;
+        padding: 10px;
+        margin-left: 100px;
+        margin-bottom: 20px;
+        background-color: rgb(124, 211, 124);
+        border-top-left-radius: 7px ;
+        border-top-right-radius: 7px ;
+        border-bottom-left-radius: 7px ;
+        border-bottom-right-radius: 7px ;
+        font-size: 20px;
+    }
+    label{
+        font-size: 23px;
+    }
+    .hr{
+        width: 112%;
+        position: relative;
+        right: 50px;
+    }
+
+}
